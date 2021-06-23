@@ -1,5 +1,10 @@
-I'm a Python Developer, currently working on a Discord Bot using discord.py! You can reach out to me on Discord @ Somebody#9485.
+# Hello, I'm Somebody
 
+• Currently using Python
+• Learning rust
+• Working on Discord for now
+
+You can contact me on Discord (Somebody#0003) or Twitter @Somebody0812
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Somebody0812&show_icons=true&theme=algolia)
