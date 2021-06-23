@@ -1,7 +1,7 @@
 # Hello, I'm Somebody
 
-• Currently using Python
-• Learning rust
+• Currently using Python  
+• Learning rust  
 • Working on Discord for now
 
 You can contact me on Discord (Somebody#0003) or Twitter @Somebody0812
