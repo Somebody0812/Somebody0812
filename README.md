@@ -1,7 +1,6 @@
 # Hello, I'm Somebody
 
 • Currently using Python  
-• Learning rust  
 • Working on discord.py for the time being  
 • All of my repositories are private, so you won't find much here.
 
